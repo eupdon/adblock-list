@@ -1,3 +1,7 @@
+[adblock-list]
+! Title: adblock-list
+! Homepage: 
+
 ! naver
 ad.nbms.naver.com
 ad.news.naver.com
