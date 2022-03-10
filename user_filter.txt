@@ -11,3 +11,6 @@
 ||kr-api.mcsvc.samsung.com^
 ||gos-api.gos-gsp.io^
 ||samsung-gamelauncher.com^
+@@||ace.naver.com^
+@@||ipada.cafe.naver.com^
+@@||nelo2-col.navercorp.com^
