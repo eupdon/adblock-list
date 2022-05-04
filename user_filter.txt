@@ -1,7 +1,7 @@
 ||ad-api.band.us^
 ||api.adxcorp.kr^
 ||event.kidsnote.com^
-||ad.daum.net^
+||tr.ad.daum.net^
 ||stat.tiara.daum.net^
 ||ads.mopub.com^
 ||eads.kidsnote.com^
