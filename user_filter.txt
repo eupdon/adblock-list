@@ -12,4 +12,3 @@
 ||kr-api.mcsvc.samsung.com^
 ||gos-api.gos-gsp.io^
 ||samsung-gamelauncher.com^
-||mud-kage.kakao.co.kr/dn^
