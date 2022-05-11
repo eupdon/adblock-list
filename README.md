@@ -15,14 +15,14 @@ Adguard mobile filter
 "><pre><code>https://filters.adtidy.org/android/filters/11_optimized.txt
 </code></pre></div>
 
-AdAway Default Blocklist
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adaway.org/hosts.txt
-"><pre><code>https://adaway.org/hosts.txt
-</code></pre></div>
-
 List-KR Mobile Android filter
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://raw.githubusercontent.com/List-KR/List-KR/master/filters-AG/mobile/android/android_app.txt
 "><pre><code>https://raw.githubusercontent.com/List-KR/List-KR/master/filters-AG/mobile/android/android_app.txt
+</code></pre></div>
+
+AdAway Default Blocklist
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adaway.org/hosts.txt
+"><pre><code>https://adaway.org/hosts.txt
 </code></pre></div>
 
 정규식
