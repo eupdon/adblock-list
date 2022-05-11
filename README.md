@@ -14,6 +14,7 @@ https://adaway.org/hosts.txt
 
 List-KR filter
 https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-AG/mobile/android/android_app.txt
 
 YouTube_ads_4_pi-hole
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
