@@ -1,23 +1,31 @@
 # adblock-list
 
 AdGuard DNS filter
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+"><pre><code>https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+</code></pre></div>
 
 Adguard base filter
-https://filters.adtidy.org/android/filters/2_optimized.txt
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/2_optimized.txt
+"><pre><code>https://filters.adtidy.org/android/filters/2_optimized.txt
+</code></pre></div>
 
 Adguard mobile filter
-https://filters.adtidy.org/android/filters/11_optimized.txt
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/11_optimized.txt
+"><pre><code>https://filters.adtidy.org/android/filters/11_optimized.txt
+</code></pre></div>
 
 AdAway Default Blocklist
-https://adaway.org/hosts.txt
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adaway.org/hosts.txt
+"><pre><code>https://adaway.org/hosts.txt
+</code></pre></div>
 
-List-KR filter
-https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
-https://raw.githubusercontent.com/List-KR/List-KR/master/filters-AG/mobile/android/android_app.txt
-
-YouTube_ads_4_pi-hole
-https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+List-KR Mobile Android filter
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://raw.githubusercontent.com/List-KR/List-KR/master/filters-AG/mobile/android/android_app.txt
+"><pre><code>https://raw.githubusercontent.com/List-KR/List-KR/master/filters-AG/mobile/android/android_app.txt
+</code></pre></div>
 
 정규식
-https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+"><pre><code>https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+</code></pre></div>
