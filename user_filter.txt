@@ -24,7 +24,6 @@
 
 !-삼성
 ||kr-cdn-gpp.mcsvc.samsung.com^
-||kr-api.mcsvc.samsung.com^
 ||gos-api.gos-gsp.io^
 ||samsung-gamelauncher.com^
 
