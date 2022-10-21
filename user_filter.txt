@@ -19,8 +19,6 @@
 !-티맵
 ||poi-cdn.tmap.co.kr^
 ||cdn.tmap.co.kr^
-||s.mfinder.co.kr^
-||kialant.com^
 
 !-삼성
 ||kr-cdn-gpp.mcsvc.samsung.com^
