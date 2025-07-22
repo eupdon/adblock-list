@@ -1,28 +1,48 @@
 # adblock-list
 
-AdGuard DNS filter
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-"><pre><code>https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+AdGuard DNS filter (Optimized)
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/15_optimized.txt
+"><pre><code>https://filters.adtidy.org/android/filters/15_optimized.txt
 </code></pre></div>
 
-Adguard base filter
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/2_optimized.txt
-"><pre><code>https://filters.adtidy.org/android/filters/2_optimized.txt
+AdGuard URL Tracking filter (Optimized)
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/17_optimized.txt
+"><pre><code>https://filters.adtidy.org/android/filters/17_optimized.txt
 </code></pre></div>
 
-Adguard mobile filter
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/11_optimized.txt
-"><pre><code>https://filters.adtidy.org/android/filters/11_optimized.txt
+AdGuard Annoyances filter (Optimized)
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/14_optimized.txt
+"><pre><code>https://filters.adtidy.org/android/filters/14_optimized.txt
 </code></pre></div>
 
-List-KR Mobile Android filter
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://raw.githubusercontent.com/List-KR/List-KR/master/filters-AG/mobile/android/android_app.txt
-"><pre><code>https://raw.githubusercontent.com/List-KR/List-KR/master/filters-AG/mobile/android/android_app.txt
+AdGuard Popups filter (Optimized)
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/19_optimized.txt
+"><pre><code>https://filters.adtidy.org/android/filters/19_optimized.txt
 </code></pre></div>
 
-AdAway Default Blocklist
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adaway.org/hosts.txt
-"><pre><code>https://adaway.org/hosts.txt
+AdGuard DNS Popup Hosts filter
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
+"><pre><code>https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
+</code></pre></div>
+
+AdGuard Base filter (first-party)
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
+"><pre><code>https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
+</code></pre></div>
+
+AdGuard Base filter (foreign)
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt
+"><pre><code>https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt
+</code></pre></div>
+
+KOR: YousList
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
+"><pre><code>https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
+</code></pre></div>
+
+KOR: List-KR DNS
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
+"><pre><code>https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
 </code></pre></div>
 
 정규식
