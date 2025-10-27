@@ -11,6 +11,14 @@
 ||ad.daum.net^
 ||stat.tiara.daum.net^
 ||mk.kakaocdn.net^
+!-숏폼
+||shortformstats.kakao.com
+||play.kakao.com
+!-친구피드
+||talk-pilsner.kakao.com
+||ik.kakaocdn.net
+!-쇼핑탭
+||shopper.kakao.com
 
 !-티전화
 ||cdn.skt-asum.com^
