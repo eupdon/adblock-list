@@ -1,4 +1,8 @@
 # adblock-list
+sangdon filter
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://raw.githubusercontent.com/eupdon/adblock-list/refs/heads/main/user_filter.txt
+"><pre><code>https://raw.githubusercontent.com/eupdon/adblock-list/refs/heads/main/user_filter.txt
+</code></pre></div>
 
 AdGuard DNS filter (Optimized)
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://filters.adtidy.org/android/filters/15_optimized.txt
