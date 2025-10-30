@@ -14,9 +14,6 @@
 !-숏폼
 ||shortformstats.kakao.com
 ||play.kakao.com
-!-친구피드
-||talk-pilsner.kakao.com
-||ik.kakaocdn.net
 !-쇼핑탭
 ||shopper.kakao.com
 
