@@ -12,10 +12,11 @@
 ||stat.tiara.daum.net^
 ||mk.kakaocdn.net^
 !-숏폼
-||shortformstats.kakao.com
-||play.kakao.com
+||shortformstats.kakao.com^
+||kamp.kakao.com^
+||vs*.play.kakao.com^
 !-쇼핑탭
-||shopper.kakao.com
+||shopper.kakao.com^
 
 !-티전화
 ||cdn.skt-asum.com^
