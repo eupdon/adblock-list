@@ -14,7 +14,7 @@
 !-숏폼
 ||shortformstats.kakao.com^
 ||kamp.kakao.com^
-||vs*.play.kakao.com^
+||play.kakao.com^
 !-쇼핑탭
 ||shopper.kakao.com^
 
