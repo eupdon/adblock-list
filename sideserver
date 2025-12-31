@@ -1,8 +1,0 @@
-{
-    "servers": [
-        {
-            "name": "[sidesever]",
-            "address": "[https://side.ooq.kr]"
-        }
-    ]
-}
