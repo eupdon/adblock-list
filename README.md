@@ -40,13 +40,13 @@ AdGuard Base filter (foreign)
 </code></pre></div>
 
 List-KR
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
-"><pre><code>https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
+"><pre><code>https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
 </code></pre></div>
 
 List-KR DNS
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
-"><pre><code>https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
+"><pre><code>https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
 </code></pre></div>
 
 정규식
