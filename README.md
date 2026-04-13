@@ -39,14 +39,14 @@ AdGuard Base filter (foreign)
 "><pre><code>https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt
 </code></pre></div>
 
-KOR: YousList
+List-KR
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
 "><pre><code>https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
 </code></pre></div>
 
-KOR: List-KR DNS
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
-"><pre><code>https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
+List-KR DNS
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
+"><pre><code>https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
 </code></pre></div>
 
 정규식
